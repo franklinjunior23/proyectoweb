@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>textrader</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <p class="logo">Textrader</p>
+            <nav>
+                <a href="#somos-proya">Quienes Somos</a>
+                <a href="#nuestros-programas">Nuestros Programas</a>
+                <a href="#caracteristicas">Características</a>
+            </nav>
+        </div>
+    </header>
+
+    <section id="hero">
+        <h1>Venta de maquinas<br>de alta calidad</h1>
+        <button>COMPRA YA!</button>
+    </section>
+
+    <section id="somos-proya">
+        <div class="container">
+            <div class="img-container"></div>
+            <div class="texto">
+
+                <h2>TEXTRADER<span class="color-acento"></span></h2>
+                <p>Somos una empresa especializada en la venta de maquinaria de alta calidad Rectilínea,
+                 circular, calcetinera y repuestos para el Sector textil Peruano. Asesoramos al cliente
+                 para brindarle el modelo de máquina adecuado a sus requerimientos, siendo nuestro principal
+                 objetivo brindar capacitación, un buen servicio pos-venta y así su satisfacción.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="nuestros-programas">
+        <div class="container">
+            <h2>lo que ofrecemos</h2>
+            <div class="programas">
+                <div class="carta">
+                    <h3>---</h3>
+                    <p>Buscamos el crecimiento de nuestros clientes, de nuestro mercado local y de exportación ofreciendo las mejores marcas para obtener el mejor producto.</p>
+                    <button>+ Info</button>
+                </div>
+                <div class="carta">
+                    <h3>---</h3>
+                    <p>Ofrecer a nuestros clientes lo último en la tecnología textil, lo mejor en marcas de calidad y asequibles a nuestro mercado Peruano.</p>
+                    <button>+ Info</button>
+                </div>
+                <div class="carta">
+                    <h3>---</h3>
+                    <p>Haz que tu producto resalte en un mercado cada vez más competitivo. Encuentra máquinas de fabricantes líderes en el mundo y a precios competitivos.</p>
+                    <button>+ Info</button>
+                </div>  
+            </div>
+        </div>
+    </section>
+
+    <section id="caracteristicas">
+        <div class="container">
+            <ul>
+                <li>✔️ 100% online</li>
+                <li>✔️ Flexibilidad de horarios</li>
+                <li>✔️ Soporte 1:1</li>
+                <li>✔️ Asistencia financiera</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="final">
+        <h2>Listo para programar?</h2>
+        <button>APLICÁ YA!</button>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; ProgramaYa 2021</p>
+        </div>
+    </footer>
+</body>
+</html> 
